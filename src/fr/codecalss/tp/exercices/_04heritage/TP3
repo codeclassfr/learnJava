@@ -1,0 +1,13 @@
+1. Créer une class TP3
+
+2. Ajout la méthode main dans la classe TP3
+
+3. Créer 2 objets 'Voiture' et 1 objet 'Moto'.
+
+4. Utilise 'setNombreDeRoues' pour modifier le nombreDeRoues du premier objet Voiture à la valeur '6'
+
+5. Créer un tableau 'mesVehicules' du type 'Vehicule' avec ces 3 objets (2 voitures, 1 moto)
+
+6. Utilise 'for :' pour calculer le nombreDeRoues totales de ces 3 objets.
+
+7. Imprime le resultat dans la console

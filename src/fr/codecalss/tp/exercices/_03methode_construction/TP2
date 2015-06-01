@@ -1,0 +1,7 @@
+1.Créer une classe TP2.
+
+2.Ajouter la méthode main
+
+3.Créer 2 objets Vehicule on utilisant les deux méthodes de construction (une avec un parametre int, une sans)
+
+4.Imprime dans le console le 'nombreDeRoues' de les deux objets créés on appelant la méthode 'getNombreDeRoues()'

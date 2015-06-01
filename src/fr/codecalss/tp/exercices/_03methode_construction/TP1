@@ -1,0 +1,11 @@
+1.Créer une class Vehicule
+
+2.Ajout un attribut 'nombreDeRoues' du type int en scope 'private' dans cette classe
+
+3.Créer une méthode de construction de la classe Vehicule avec un parametre int 'nombreDeRoues' en entrée.
+    A l'intérieur de la méthode, on assigne l'attribut 'nombreDeRoues' de la class avec le parametre 'nombreDeRoues'
+
+4.Créer une deuxième méthode de construction sans parametre.
+    A l'intérieur de la méthode, on assigne l'attribut 'nombreDeRoues' avec le chiffre '4'.
+
+5.Ajout la méthode "getter" pour l'attribut 'nombreDeRoues.

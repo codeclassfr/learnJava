@@ -1,0 +1,4 @@
+1. Créer une class TP2
+2. Ajout la méthode main dans la classe TP2
+3. Créer un objet Voiture et Créer un objet Moto
+4. Imprime dans la console le nombreDeRoues de l'objet de la voiture, et imprime aussi le nombreDeRoues de l'objet moto.

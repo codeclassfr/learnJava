@@ -1,0 +1,5 @@
+1.Créer une classe 'TP2'.
+2.Ajout la méthode main (public static void)
+3.Dans la méthode main, créer un tableau de Vehicule 'mesVehicules' avec 3 éléments. 1er vécule 2 roues, 2eme vecule 3 roues, 3eme vecule 4 roues
+4.Utilise "for :" pour calculer combien de roues en total qu'on a
+5.Imprime le résutlat dans la console

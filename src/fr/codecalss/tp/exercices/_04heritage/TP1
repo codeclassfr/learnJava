@@ -1,0 +1,9 @@
+1. Créer une class 'Vehicule' avec un attribut 'nombreDeRoues', et la méthode getter & setter pour l'attribut 'nombreDeRoues'
+
+2. Ajouter dans la classe 'Vehicule' une méthode de construction avec un parametre entrée 'nombreDeRoues'.
+
+3. Créer une class 'Voiture' qui hérite 'Vehicule'. Dans sa méthode de construction,
+    elle doit appeler la méthode de construction de la classe mère en lui fournissant le chiffre '4'.
+
+4. Créer une class 'Moto' qui hérite 'Vehicule'. Dans sa méthode de construction,
+    elle doit appeler la méthode de construction de la classe mère en lui fournissant le chiffre '2'.

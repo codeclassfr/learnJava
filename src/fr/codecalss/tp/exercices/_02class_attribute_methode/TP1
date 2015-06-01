@@ -1,0 +1,11 @@
+1.Créer une classe: 'Vehicule'
+2.Ajouter un attribut 'nombreDeRoues' dans la classe, son type est int
+3.Ecrire une méthode public 'description', pas de paramètre entrée, pas de paramètre de sortie,
+    seulement une ligne pour imprimer 'le nombre de roue de cette vehicule est '+ nombreDeRoues
+
+4.Ecrire une méthode public 'setNombreDeRoues', une parametre d'entrée, type int. pas de parametre de sortie.
+    On utilise cette paramètre pour assigner la valeur de l'attribut 'nombreDeRoues'
+
+5.Ecrire une méthode public 'getNombreDeRoues', pas paramètre d'entrée, on retour l'attribut 'nombreDeRoues' comme paramètre de sortie.
+
+
