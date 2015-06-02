@@ -7,7 +7,7 @@ public class TP3 {
 
         String[] words = {"Hello", "Java", "World"};
 
-        //imprime ce tableau dans la console, utilise "for in"
+        //imprime ce tableau dans la console, utilise "for :"
 
     }
 }
