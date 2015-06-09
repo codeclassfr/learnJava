@@ -1,0 +1,5 @@
+1. ajoutez une ligne de code dans la méthode roule() pour déclencher une exception avec le message "Une panne de voiture!"
+
+Attention: utilise 'throw' dans la méthode, et 'throws' à la signature de méthode.
+
+2. Completez TP2

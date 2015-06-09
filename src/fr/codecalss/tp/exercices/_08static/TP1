@@ -1,0 +1,3 @@
+1. Créez une class 'Voiture'. Ajout un attribut 'VTYPE' du type String, et il est static. Sa valeur par défaut est "voiture".
+
+2. Créez une méthode static 'logInfo' pour imprimer la valeur de VTYPE dans la console.

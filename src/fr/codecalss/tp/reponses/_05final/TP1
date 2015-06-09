@@ -1,0 +1,11 @@
+1.
+Non. On ne peut pas hériter une classe 'final'
+
+2.
+Non. On ne peut pas re-affecter valeur d'un attribut 'final'. (this.VTYPE = vtype; serait en erreur)
+
+3.
+Non. On ne peut pas surcharger une méthode 'final'
+
+4.
+Non. On ne peut pas re-affecter valeur d'une variable 'final'. (que ce soit une paramètre d'entrée ou une variable locale)

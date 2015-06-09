@@ -1,0 +1,5 @@
+1.Créez une interface 'IVehicule'
+
+2.Dans cette interface, déclarez une méthode 'getPrice' (pas de params en entrée, une param float en sortie)
+
+3.Créez une class 'Voiture' qui impélemente cette interface

@@ -1,0 +1,12 @@
+1. Adjoutez 'final' devant le mot cle 'class'. Créez une classe 'Voiture' qui hérite la classe Vehicule. C'est possible?
+
+2. Ajoutez 'final' devant l'attribut 'VTYPE'. C'est possible?
+
+3. (Supprimez 'final' de la class Vehicule) Ajoutez 'final' devant la méthode 'logInfo'.
+    Créez une class 'Voiture' qui hérite la class 'Vehicule'. Créer une méthode 'logInfo' avec le même paramètre
+    de celle de sa classe mère. C'est possible?
+
+
+4. Ecrivez à la première ligne de la méthode 'logInfo' de la class 'Vehicule' : vtype="moto".
+Ensuite, mettez 'final' à cote du paramètre d'entrée 'String vtype'. C'est possible?
+
